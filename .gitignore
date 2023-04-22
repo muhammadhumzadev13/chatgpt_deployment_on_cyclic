@@ -1,8 +1,8 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-OpenAI-Template.1.3-update-auth-signups/node_modules
-OpenAI-Template.1.3-update-auth-signups/build
+OpenAITemplate1.3/node_modules
+OpenAITemplate1.3/build
 .pnp
 .pnp.js
 
