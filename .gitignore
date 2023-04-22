@@ -2,6 +2,7 @@
 
 # dependencies
 OpenAI-Template.1.3-update-auth-signups/node_modules
+OpenAI-Template.1.3-update-auth-signups/build
 .pnp
 .pnp.js
 
