@@ -30,7 +30,7 @@
     "mongo": "^0.1.0",
     "mongoose": "^5.13.5",
     "morgan": "^1.10.0",
-    "node-sass": "^4.14.1",
+    "node-sass": "^6.0.0",
     "openai-api": "^1.2.3",
     "react": "^16.0",
     "react-countdown": "^2.3.2",
@@ -57,6 +57,9 @@
     "api": "set NODE_ENV=dev&&nodemon index.js",
     "apimac": "export NODE_ENV=dev&&nodemon index.js",
     "eject": "react-scripts eject"
+  },
+  "resolutions": {
+    "node-sass/build/Release/binding.node": "https://github.com/sass/node-sass/releases/download/v6.0.0/linux-x64-83_binding.node"
   },
   "eslintConfig": {
     "extends": [
