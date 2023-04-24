@@ -30,7 +30,7 @@
     "mongo": "^0.1.0",
     "mongoose": "^5.13.5",
     "morgan": "^1.10.0",
-    "node-sass": "^6.0.0",
+    "node-sass": "^4.14.1",
     "openai-api": "^1.2.3",
     "react": "^16.0",
     "react-countdown": "^2.3.2",
